@@ -1,4 +1,4 @@
-# AI-assignment---2-3
+# AI-assignment---2
 Segmentation and classification of melanoma images
 
 
